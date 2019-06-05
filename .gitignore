@@ -1,0 +1,17 @@
+/bin/
+/resources/*.exe
+/Test/
+/Test/*
+/Test/**
+/Train/
+/Train/*
+/Train/**
+/SavedNNs/
+/SavedNNs/*
+/SavedNNs/**
+/Platonic/
+/Platonic/*
+/Platonic/**
+/Filters/
+/Filters/*
+/Filters/**
